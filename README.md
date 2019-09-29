@@ -9,7 +9,7 @@ You are free to try them out yourself but this is mainly for me to see what I ca
                         |Pyt|Jav|cpp|
 ------------------------|-----------|
 Grading Program         | ✓ | ✓ | ✓ |
-Cola machine            | ✓ | ✓ | ✗ |
+Cola machine            | ✓ | ✓ | ✓ |
 while(user == gullible) | ✗ | ✗ | ✗ |
 Pancake Glutton         | ✗ | ✗ | ✗ |
 Bracketing Search       | ✗ | ✗ | ✗ |
