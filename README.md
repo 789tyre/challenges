@@ -16,7 +16,7 @@ Cola machine            | ✓ | ✓ | ✓ |
 **                      | ✓ | ✓ | ✓ |
 while(user == gullible) | ✗ | ✓ | ✗ |
 *                       | ✗ | ✓ | ✗ |
-**                      | ✗ | ✗ | ✗ |
+**                      | ✗ | ✓ | ✗ |
 Pancake Glutton         | ✗ | ✗ | ✗ |
 *                       | ✗ | ✗ | ✗ |
 ****                    | ✗ | ✗ | ✗ |

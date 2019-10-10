@@ -8,17 +8,17 @@ class main
 	Scanner s = new Scanner(System.in);
 
 	int number = 0;
-	int counter = 0;
-	while(number != 5 && counter <= 10){
+	int counter = -1;
+	while(number != counter && counter <= 10){
 	   counter++;
 	   try{
-	       System.out.println("Enter a number that is not 5:");
+	       System.out.println("Enter a number that is not " + counter + ":");
 	       number = s.nextInt();
 	   } catch (java.util.InputMismatchException e){
 	       s.next();
 	   }
 	}
-	if (number == 5){
+	if (number == counter){
 	    System.out.println("Hey, You weren't supposed to do that!");
 	    System.exit(0);
 	}
