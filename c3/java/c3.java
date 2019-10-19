@@ -9,7 +9,7 @@ class main
 
 	int number = 0;
 	int counter = -1;
-	while(number != counter && counter <= 10){
+	while(number != counter && counter < 10){
 	   counter++;
 	   try{
 	       System.out.println("Enter a number that is not " + counter + ":");
@@ -18,10 +18,12 @@ class main
 	       s.next();
 	   }
 	}
+	
 	if (number == counter){
 	    System.out.println("Hey, You weren't supposed to do that!");
 	    System.exit(0);
 	}
+
 	if (counter >= 10){
 	    System.out.println("You have more patience than I have. You win.");
 	}
