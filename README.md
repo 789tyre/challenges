@@ -14,9 +14,9 @@ Grading Program         | ✓ | ✓ | ✓ |
 Cola machine            | ✓ | ✓ | ✓ |
 *                       | ✓ | ✓ | ✓ |
 **                      | ✓ | ✓ | ✓ |
-while(user == gullible) | ✗ | ✓ | ✗ |
-*                       | ✗ | ✓ | ✗ |
-**                      | ✗ | ✓ | ✗ |
+while(user == gullible) | ✓ | ✓ | ✓ |
+*                       | ✓ | ✓ | ✓ |
+**                      | ✓ | ✓ | ✓ |
 Pancake Glutton         | ✗ | ✗ | ✗ |
 *                       | ✗ | ✗ | ✗ |
 ****                    | ✗ | ✗ | ✗ |
