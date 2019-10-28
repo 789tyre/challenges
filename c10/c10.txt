@@ -47,11 +47,11 @@ If the bunny population exceeds 1000 a food shortage must occur killing exactly 
 
 ★ Modify the program to run in real time, with each turn lasting 2 seconds, and a one second pause between each announement.
 
-★★ Allow the user to hit the 'k' key to initiate a mass rabit cull! which causes half of all the rabits to be killed (randomly chosen).
+★★ Allow the user to hit the 'k' key to initiate a mass rabbit cull! which causes half of all the rabbits to be killed (randomly chosen).
 
-★★★★ Modify the program to place the rabits in an 80x80 grid. Have the rabits move one space each turn randomly.
+★★★★ Modify the program to place the rabbits in an 80x80 grid. Have the rabbits move one space each turn randomly.
 Mark juvenile males with m, adult males w/ M,
-juvenile females w/ f, adult femails w/ F
+juvenile females w/ f, adult females w/ F
 radioactive mutant vampire bunnies with X
 
 Modify the program so that radioactive mutant vampire bunnies only convert bunnies that end a turn on an adjacent square.
