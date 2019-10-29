@@ -17,9 +17,9 @@ Cola machine            | ✓ | ✓ | ✓ |
 while(user == gullible) | ✓ | ✓ | ✓ |
 *                       | ✓ | ✓ | ✓ |
 **                      | ✓ | ✓ | ✓ |
-Pancake Glutton         | ✗ | ✗ | ✓ |
-*                       | ✗ | ✗ | ✓ |
-****                    | ✗ | ✗ | ✓ |
+Pancake Glutton         | ✗ | ✓ | ✓ |
+*                       | ✗ | ✓ | ✓ |
+****                    | ✗ | ✓ | ✓ |
 Bracketing Search       | ✗ | ✗ | ✗ |
 *                       | ✗ | ✗ | ✗ | 
 **                      | ✗ | ✗ | ✗ |
