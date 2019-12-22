@@ -20,10 +20,10 @@ while(user == gullible) | ✓ | ✓ | ✓ |
 Pancake Glutton         | ✓ | ✓ | ✓ |
 *                       | ✓ | ✓ | ✓ |
 ****                    | ✓ | ✓ | ✓ |
-Bracketing Search       | ✗ | ✗ | ✓ |
-*                       | ✗ | ✗ | ✓ | 
-**                      | ✗ | ✗ | ✓ |
-****                    | ✗ | ✗ | ✓ |
+Bracketing Search       | ✗ | ✓ | ✓ |
+*                       | ✗ | ✓ | ✓ | 
+**                      | ✗ | ✓ | ✓ |
+****                    | ✗ | ✓ | ✓ |
 Tic Tac Toe             | ✗ | ✗ | ✗ |
 *                       | ✗ | ✗ | ✗ |
 **                      | ✗ | ✗ | ✗ |
